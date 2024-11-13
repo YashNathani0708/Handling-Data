@@ -1,4 +1,4 @@
-# Handling Data
+# Smart CSV Handler
 
 This project is designed to read and validate data from CSV files, categorize the data based on genre, handle exceptions, and write the processed data to different files. It also includes serialization of the data for further processing.
 
